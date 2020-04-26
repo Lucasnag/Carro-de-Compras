@@ -1,0 +1,58 @@
+[
+     {
+         "id" : 0,
+         "nombre" : "Cascos",
+         "precio" : 1000,
+         "imagen" : "casco",
+         "descripcion": "Conocé todos los modelos, colores y diseños al mejor Precio y financiación. Encontrá tu Repuesto. Envíos a Domicilio. Variedad y Calidad. Tienda Oficial Repuestos."
+     },
+     {
+         "id" : 1,
+         "nombre" : "Camperas",
+         "precio" : 2500,
+         "imagen" : "campera",
+         "descripcion": "No sabes qué chaqueta debes elegir para conducir tu moto? ¡Te decimos todo lo que debes saber para que escogas la más adecuada."
+     },
+     {
+         "id" : 2,
+         "nombre" : "Llantas",
+         "precio" : 1500,
+         "imagen" : "llanta",
+         "descripcion": "Para saber cuáles llantas necesita una moto, es importante conocer qué tipos existen, sus características y para qué terrenos están hechas."
+     },
+     {
+         "id" : 3,
+         "nombre" : "Amortiguadores",
+         "precio" : 2000,
+         "imagen" : "amortiguador",
+         "descripcion": "Existen diferentes tipos de amortiguadores de dirección en el mercado: Los convencionales, que pueden ser regulables y van montados de forma transversal cogidos al chasis y a la parte superior de la tija o colocados de forma longitudinal anclados igualmente pero a la parte inferior de la tija. Por otro lado, los electrónicos, que varían su funcionamiento dependiendo de la velocidad. Todos cumplen la misma función: amortiguar los movimientos de la dirección."
+     },
+     {
+         "id" : 4,
+         "nombre" : "Guantes",
+         "precio" : 900,
+         "imagen" : "guantes",
+         "descripcion": "Los guantes son, más que un complemento, un elemento de seguridad imprescindible para aquellas personas que montan en moto. Si tienes que comprar unos y no sabes por cuál decidirte, acercate a nuestro local."
+     },
+     {
+         "id" : 5,
+         "nombre" : "Botas",
+         "precio" : 1200,
+         "imagen" : "botas",
+         "descripcion": "Consigue gran variedad de botas y zapatillas para motoristas en marcas famosas como Alpinestars y Sidi. Tenemos modelos para motocross, enduro, pista, etc."
+     },
+     {
+         "id" : 6,
+         "nombre" : "Espejos",
+         "precio" : 925,
+         "imagen" : "espejos",
+         "descripcion": "Tenemos variedad de espejos de motos para el estilo que necesites, chopper, bobber, enduro, calle, custom, street, cafe racer."
+     },
+     {
+         "id" : 7,
+         "nombre" : "Luces",
+         "precio" : 720,
+         "imagen" : "luces",
+         "descripcion": "Contamos con un stock permanente de variedad de luces, blanca, amarilla, de neon, luces cortas, largas, de posicion, de BMW y Harley Davinson."
+     }
+ ]

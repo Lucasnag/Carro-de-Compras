@@ -1,0 +1,38 @@
+html {
+  height: 100%;
+  box-sizing: border-box;
+  
+}
+*, *:before, *:after {
+box-sizing: inherit;
+}
+body {
+  font-family: arial,helvetica, sans-serif;
+  height: 100%;
+  margin: 0;
+  background: black; 
+  background: -moz-linear-gradient(top, black 0%, black 47%,black 100%); 
+  background: -webkit-linear-gradient(top,black 0%,black 47%,black 100%);
+  background: linear-gradient(to bottom, black 0%,black 47%,black 100%); 
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  /* filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c62828', endColorstr='#b71c1c',GradientType=0 ); */
+  margin-bottom: 10rem;
+}
+header {
+text-align: center;
+padding: 20px 0;
+}
+div.contenedor {
+  max-width: 800px;
+  width: 95%;
+  margin: 0 auto;
+}
+div.hero img {
+  width: 100%;
+}
+h2 {
+text-align: center;
+color: white;
+text-transform: uppercase;
+}
